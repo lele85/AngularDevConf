@@ -1,0 +1,20 @@
+<div class="row" id="TalkList" data-ng-controller="TalkListController">
+	<div class="col-md-3" >
+	    <h1>TALK LIST</h1>
+	    <h2>Search: </h2>
+	    <input ng-model="query" />
+	    
+	</div>
+	<div class="col-md-9" >
+	    <ul class="list-unstyled">
+	        <li class="talk" data-ng-repeat="talk in talks | filter:query">
+	        <div class="row">
+	            <h2 class="title">{{talk.title}}</h2>
+	            <div class="pull-left" data-gravatar data-md5="talk.author.mail | md5"></div>
+	            <p class="author"><a href="#/author/{{talk.author.id}}">{{talk.author.name}}</a></p>
+	            <p class="abstract">{{talk.abstract}}</p>
+	        </div>
+	        </li>
+	    </ul>
+	</div>
+</div>

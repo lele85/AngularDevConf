@@ -1,0 +1,11 @@
+{
+	"name" : "Emanuele",
+	"surname" : "Rampichini",
+	"mail" : "emanuele.rampichini@gmail.com",
+	"links" : [
+		{"name":"twitter", "href":"https://twitter.com/emanuele_r"},
+		{"name":"github", "href":"https://github.com/lele85"},
+		{"name":"linkedin", "href":"http://www.linkedin.com/in/emanuelerampichini"},
+		{"name":"google+", "href":"https://plus.google.com/+EmanueleRampichini"}
+	]
+}

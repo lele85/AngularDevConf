@@ -1,0 +1,25 @@
+{
+  "name": "testing-and-tools",
+  "version": "0.0.0",
+  "dependencies": {
+    "express": "3.x"
+  },
+  "devDependencies": {
+    "karma": "~0.10.2",
+    "bower": "*",
+    "karma-ng-scenario": "latest",
+    "grunt": "~0.4.1",
+    "grunt-shell": "~0.2.2",
+    "grunt-karma": "~0.6.2",
+    "grunt-nodemon": "*",
+    "grunt-bower-task": "0.3.4",
+    "grunt-protractor-runner": "0.2.3",
+    "karma-chrome-launcher": "*",
+    "karma-firefox-launcher": "*",
+    "karma-safari-launcher": "*",
+    "karma-opera-launcher": "*",
+    "karma-phantomjs-launcher": "*",
+    "ng-midway-tester": "2.0.5",
+    "protractor": "~0.18.0"
+  }
+}

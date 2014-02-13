@@ -1,0 +1,10 @@
+<h1><span>{{ author.name }}</span> <span>{{ author.surname }}</span></h1>
+<div class="pull-left" data-gravatar data-md5="author.mail | md5"></div>
+<ul class="list-unstyled">
+	<li data-ng-repeat="link in author.links">
+		<a target="_blank" href="{{ link.href }}">{{link.name}}</a>
+	</li>
+</ul>
+
+
+

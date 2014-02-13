@@ -1,0 +1,25 @@
+[{
+	"title": "Introduzione ad AngularJS",
+	"author" : {
+		"id" : 1,
+		"name" : "Andrea Balducci",
+		"mail" : "andrea.balducci@prxm.it"
+	},
+	"abstract" : "Come realizzare Single Page Applications sfruttando databinding bidirezionale, templates, routing, controllers, componenti e servizi web creando passo passo un catalogo immagini.Angular is what HTML would have been had if been designed for applications"
+}, {
+	"title": "AngularJS: tools & testing",
+	"author" : {
+		"id" : 2,
+		"name" : "Emanuele Rampichini",
+		"mail" : "emanuele.rampichini@gmail.com"
+	},
+	"abstract" : "Come AngularJS (ad altri tool di supporto) vengono in nostro soccorso per aiutarci a scrivere applicazioni web completamente testate in maniera automatica e ripetibile, a partire dalla logica fino ad arrivare all’interazione dell’utente."
+}, {
+	"title": "Scope e Directive in AngularJS",
+	"author" : {
+		"id" : 3,
+		"name" : "Alessandro Giorgetti",
+		"mail" : "alessandro.giorgetti@gmail.com"
+	},
+	"abstract" : "Gli 'Scope' fungono da collante tra il modello e la UI, e le 'Directive' si occupano di estendere l’arsenale di controlli a disposizione del web developer. Vedremo le differenze tra scope, inherited scope ed isolated scope e verrà introdotta, tramite l’utilizzo delle Direttive, la creazione di 'web components' riutilizzabili per rendere più semplice e strutturata la creazione di una pagina web dinamica."
+}]

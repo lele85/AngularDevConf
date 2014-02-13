@@ -1,0 +1,11 @@
+{
+	"name" : "Andrea",
+	"surname" : "Balducci",
+	"mail" : "andrea.balducci@prxm.it",
+	"links" : [
+		{"name":"twitter", "href":"https://twitter.com/andreabalducci"},
+		{"name":"github", "href":"https://github.com/andreabalducci"},
+		{"name":"linkedin", "href":"http://it.linkedin.com/in/andreabalducci"},
+		{"name":"google+", "href":"https://plus.google.com/+AndreaBalducci"}
+	]
+}

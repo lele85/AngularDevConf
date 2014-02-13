@@ -1,0 +1,11 @@
+{
+	"name" : "Alessandro",
+	"surname" : "Giorgetti",
+	"mail" : "alessandro.giorgetti@gmail.com",
+	"links" : [
+		{"name":"twitter", "href":"https://twitter.com/A_Giorgetti"},
+		{"name":"github", "href":"https://github.com/agiorgetti"},
+		{"name":"linkedin", "href":"http://it.linkedin.com/in/giorgettialessandro"},
+		{"name":"google+", "href":"https://plus.google.com/+AlessandroGiorgetti74"}
+	]
+}
