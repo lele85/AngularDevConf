@@ -85,9 +85,8 @@ module.exports = function(grunt) {
 		}
 	});
 
-	grunt.registerTask('install', ['shell:npm_install', 'bower:install']);
+	grunt.registerTask('install', ['shell:npm_install', 'bower:install', 'shell:webdriver_update']);
 	grunt.registerTask('selenium', ['shell:webdriver_start']);
-	grunt.registerTask('selenium_update', ['shell:webdriver_update']);
 	grunt.registerTask('server', ['nodemon:dev']);
 	grunt.registerTask('unit', ['karma:unit']);
 	grunt.registerTask('unit_auto', ['karma:unit_auto']);
